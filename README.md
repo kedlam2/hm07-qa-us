@@ -11,6 +11,7 @@ Technologies
 4. Command Prompt
 5. Node.Js
 6. Notepad
+7. Jest
 
 Techniques Used
 1. asynchronous Testing
