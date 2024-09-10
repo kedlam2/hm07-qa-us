@@ -1,7 +1,6 @@
 // eslint-disable-next-line no-undef
 const config = require("../config");
 
-<<<<<<< HEAD
 test("should return 200 status code", async () => {
   let actualStatusCode;
   try {
@@ -23,7 +22,7 @@ test("Body should contain ...", async () => {
     console.error(error);
   }
   expect(actualResponseBody.name).toBe("For picnic");
-=======
+
 test('Should return 200 status code', async () => {
 	let actualStatuscode;
 	try {
